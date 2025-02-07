@@ -4,6 +4,7 @@ Here is the link where i got the open api json files https://ref.gs1.org/standar
 
 ## Docker Compose 
 docker-compose up
+docker-compose up -d
 
 
 ## Github

@@ -21,6 +21,8 @@ app.use('/api-docs/local', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 
 
+
+
 // Root route that displays the options
 app.get('/', (req, res) => {
     res.send(`
