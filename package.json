@@ -1,0 +1,27 @@
+{
+  "name": "epcisopenapi",
+  "version": "1.0.0",
+  "description": "epcis interface with open api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalewkidane/epcisOpenAPI.git"
+  },
+  "keywords": [
+    "epcis",
+    "openApi"
+  ],
+  "author": "Yalew K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yalewkidane/epcisOpenAPI/issues"
+  },
+  "homepage": "https://github.com/yalewkidane/epcisOpenAPI#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
