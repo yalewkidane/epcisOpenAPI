@@ -2,8 +2,8 @@ version: '3.3'
 
 services:
   app:
-    #image: yaledoc/epcisOpenApi:1.0
-    build: .
+    image: yaledoc/epcis_open_api:latest  #epcis_open_api:1.0
+    #build: .
     container_name: epcisOpenAPI
     ports:
       - "3045:3045"
